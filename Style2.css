@@ -1,0 +1,28 @@
+body{background-image: url(https://wallpaperaccess.com/full/5691243.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+table , th , td{
+    border:1px solid black;
+    text-align:center;
+}
+
+table{
+    width:98%;
+    background: rgba(255, 255, 255, .7);
+    margin:1.5vw 1vw 0vw 1vw;
+    font-size: 1.3em;
+    border-collapse: collapse;
+    
+}
+
+ul{
+    list-style-type: none;
+    padding:8 0 0 0 ;
+}
+
+a{
+    pointer-events: none;
+}
+
